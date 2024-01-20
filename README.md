@@ -1,2 +1,3 @@
-![sql order](https://github.com/qavvii/SQL---Notes/assets/136834246/a83a8438-cec0-409f-924d-94474c00068e)
-![sql commands](https://github.com/qavvii/SQL---Notes/assets/136834246/3bdb4e84-c4a8-4dad-8d1e-b0b84859f0ac)
+
+![sqlll](https://github.com/qavvii/SQL---Notes/assets/136834246/a12811df-2d62-45d7-97ef-7d7e0947a3d5)
+![sqqll](https://github.com/qavvii/SQL---Notes/assets/136834246/bd939d8b-0bc2-499c-b414-1f4d3e2fa65c)
